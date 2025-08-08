@@ -1,1 +1,1 @@
-﻿New-AzResourceGroup -Name "psrgcicdpipeline" -Location "East us2"
+﻿New-AzResourceGroup -Name "psrgbuildandreleasetogetherpipeline" -Location "East us2"
