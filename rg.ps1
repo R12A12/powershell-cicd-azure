@@ -1,0 +1,1 @@
+﻿New-AzResourceGroup -Name "psrgcicdpipeline" -Location "East us2"
